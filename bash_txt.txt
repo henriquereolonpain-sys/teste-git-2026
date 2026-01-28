@@ -3,3 +3,19 @@ ls -> opções
 cat -> abre repo
 cd -> abre a pasta
 git init. -> cria um git, deixa especial
+git add -> add o q vai entrar no check point
+git status -> descrição do git
+git commit -m -> criando um checkpoint e criando uma descrição 
+git config -> pra atualizar name e e-mail
+cd .. -> volta uma casa
+
+#Fluxo de trabalho
+1.criar diretório do projeto
+2.iniciar o git
+3.edita ou cria arquivos
+4.git status
+5.git add
+6.git status
+7.git commit -m
+8.git status
+9. volta pro passo 3 
