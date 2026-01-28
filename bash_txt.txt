@@ -1,0 +1,5 @@
+pwd -> caminho
+ls -> opções
+cat -> abre repo
+cd -> abre a pasta
+git init. -> cria um git, deixa especial
