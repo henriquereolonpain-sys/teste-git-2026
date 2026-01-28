@@ -8,6 +8,8 @@ git status -> descrição do git
 git commit -m -> criando um checkpoint e criando uma descrição 
 git config -> pra atualizar name e e-mail
 cd .. -> volta uma casa
+git diff -> diferença do estado atual pro anterior
+
 
 #Fluxo de trabalho
 1.criar diretório do projeto
