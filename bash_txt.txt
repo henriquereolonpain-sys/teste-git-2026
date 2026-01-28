@@ -12,6 +12,7 @@ git diff -> diferença do estado atual pro anterior
 git reset -> tu tira faze de stage (após git.add)
 git log
 git branch
+git merge-> une duas branches
 
 
 #Fluxo de trabalho
