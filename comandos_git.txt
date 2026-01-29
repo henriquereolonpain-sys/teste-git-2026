@@ -17,7 +17,7 @@ git checkout -> muda de branch
 git branch -d -> deleta branch
 
 
-
+senta poka 
 #Fluxo de trabalho
 1.criar diretório do projeto
 2.iniciar o git
