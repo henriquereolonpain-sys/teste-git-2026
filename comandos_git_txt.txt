@@ -1,5 +1,5 @@
 pwd -> caminho
-ls -> opções
+ls  -> opções
 cat -> abre repo
 cd -> abre a pasta
 git init. -> cria um git, deixa especial
@@ -17,7 +17,7 @@ git checkout -> muda de branch
 git branch -d -> deleta branch
 
 
-
+=============================================
 #Fluxo de trabalho
 1.criar diretório do projeto
 2.iniciar o git
