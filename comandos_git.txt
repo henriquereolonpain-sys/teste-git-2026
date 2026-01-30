@@ -16,6 +16,8 @@ git merge-> une duas branches
 git checkout -> muda de branch
 git branch -d -> deleta branch
 git push origin main -> commita pro GitHub
+git pull origin main -> recebe do GitHub
+git clone -> clona uma fork com o https
 
 #Fluxo de trabalho
 1.criar diretório do projeto
