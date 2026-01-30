@@ -12,7 +12,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 
 
-\#Fluxo de trabalho Git locasl
+##### Fluxo de trabalho Git locasl
 
 git checkout -b
 
@@ -32,7 +32,7 @@ git merge nova\_branch
 
 
 
-\#Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+##### Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 git clone
 
