@@ -15,6 +15,7 @@ git branch -b -> cria uma branch nova
 git merge-> une duas branches
 git checkout -> muda de branch
 git branch -d -> deleta branch
+git push origin main -> commita pro GitHub
 
 #Fluxo de trabalho
 1.criar diretório do projeto
