@@ -6,7 +6,7 @@ git init. -> cria um git, deixa especial
 git add -> add o q vai entrar no check point
 git status -> descrição do git
 git commit -m -> criando um checkpoint e criando uma descrição 
-git config -> pra atualizar name e e-mail
+git config --global user.email "seuemail@exemplo.com"-> pra atualizar name e e-mail
 cd .. -> volta uma casa
 git diff -> diferença do estado atual pro anterior
 git reset -> tu tira faze de stage (após git.add)
